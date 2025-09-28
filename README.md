@@ -26,19 +26,13 @@ The complaints are classified into the following categories:
 
 ## 💻 Installation
 
-1. **Clone the repository**:
+1. **Run the notebook**:
 
-```bash
-git clone https://github.com/Sri-0405/Task_5.git
-cd Task_5/src
-jupyter notebook Task5.ipynb
+> You can open and run the notebook directly in Google Colab without installing anything:  
+[Open Task5.ipynb in Google Colab](https://colab.research.google.com/github/Sri-0405/Task_5/blob/main/src/Task5.ipynb)
 
-```
-2.Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-3. Screenshots
+
+2. Screenshots
 
 Here are the screenshots for the task:
 
