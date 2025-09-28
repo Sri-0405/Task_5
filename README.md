@@ -30,12 +30,12 @@ The complaints are classified into the following categories:
 
 ```bash
 git clone https://github.com/Sri-0405/Task_5.git
-cd Task_5/src
+cd Task_5/src/Task5
 ```
 2.Install dependencies:
-
+```bash
 pip install -r requirements.txt
-
+```
 3. Screenshots
 
 Here are the screenshots for the task:
