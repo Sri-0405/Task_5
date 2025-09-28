@@ -30,7 +30,9 @@ The complaints are classified into the following categories:
 
 ```bash
 git clone https://github.com/Sri-0405/Task_5.git
-cd Task_5/src/Task5
+cd Task_5/src
+jupyter notebook Task5.ipynb
+
 ```
 2.Install dependencies:
 ```bash
