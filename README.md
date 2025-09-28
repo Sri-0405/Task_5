@@ -21,7 +21,22 @@ The complaints are classified into the following categories:
 - Visualizations: class distribution, word clouds  
 
 ---
-### Screenshots
+
+
+
+## 💻 Installation
+
+1. **Clone the repository**:
+
+```bash
+git clone https://github.com/Sri-0405/Task_5.git
+cd Task_5/src
+```
+2.Install dependencies:
+
+pip install -r requirements.txt
+
+3. Screenshots
 
 Here are the screenshots for the task:
 
